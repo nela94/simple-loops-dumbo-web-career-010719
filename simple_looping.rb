@@ -6,7 +6,7 @@ phrase = 0
   phrase += 1
   puts "Welcome to Flatiron School's Web Development Course!"
 break
-  if phrase <=7
+  if phrase <= 7
 
 end
 end
