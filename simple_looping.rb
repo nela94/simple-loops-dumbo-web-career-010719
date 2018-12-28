@@ -5,8 +5,9 @@ phrase = 0
   loop do
   phrase += 1
   puts "Welcome to Flatiron School's Web Development Course!"
-  if phrase <=7
 break
+  if phrase <=7
+
 end
 end
 
