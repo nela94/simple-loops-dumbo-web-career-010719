@@ -7,8 +7,8 @@ phrase = 0
   puts "Welcome to Flatiron School's Web Development Course!"
 break
   if phrase <=7
-end
-end
+    end
+  end
 end
 
 def times_iterator(number_of_times)
