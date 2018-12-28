@@ -5,7 +5,6 @@ def loop_iterator(number_of_times)
   puts phrase = "Welcome to Flatiron School's Web Development Course!"
 
     break
-    end
   end
 end
 
