@@ -1,10 +1,9 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-phrase = 0
   loop do
   phrase += 1
-  puts "Welcome to Flatiron School's Web Development Course!"
+  puts phrase = "Welcome to Flatiron School's Web Development Course!"
   if phrase <=7
     break
     end
